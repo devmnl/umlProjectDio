@@ -14,13 +14,7 @@
   - [Aparelho Telefônico](#aparelho-telefônico)
   - [Navegador na Internet](#navegador-na-internet)
 - [Diagrama UML](#diagrama-uml)
-- [Como começar](#como-começar)
-  - [Pré-requisitos](#pré-requisitos)
-  - [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
-- [Contato](#contato)
+
 
 ## Visão Geral
 
