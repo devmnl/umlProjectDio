@@ -53,16 +53,7 @@ Métodos:
 
 O diagrama de classes UML apresenta a estrutura do componente iPhone e suas interfaces, destacando a implementação dos métodos necessários para cada funcionalidade.
 
-## Como começar
 
-Estas instruções fornecerão uma cópia do projeto em funcionamento na sua máquina local para desenvolvimento e testes.
-
-### Pré-requisitos
-
-Liste aqui os pacotes, bibliotecas, ou outras dependências necessárias para executar o projeto.
-
-```bash
-sudo apt-get install exemplo-de-dependencia
 
 
 
